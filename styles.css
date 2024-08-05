@@ -82,4 +82,5 @@ button{
   border-radius:50px;
   text-shadow: 1px 0 #232931;
   color:black;
+  cursor:pointer;
 }
